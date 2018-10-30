@@ -1,108 +1,131 @@
-# Title
+# SEM 2.2 Technical Interview Prep
 
 ## Course Description
 
-Describe your course here. A short elevator pitch for the course. This will be listed as the course description in the course catalog.
+Drill key techniques and practice giving and taking full-lenth technical interviews.
 
-### Why you should know this (optional)
+### Why you should know this
 
-Explain why students should care to learn the material presented in this class.
+To improve your confidence and skill at taking technical interviews to help you get a job or internship.
 
 ## Course Specifics
 
 Weeks to Completion:  7 <br>
-Total Seat Hours:  37.5 hours <br>
-Total Out-of-Class Hours: 75 hours <br>
-Total Hours: 112.5 hours <br>
-Units:  3 units <br>
+Total Seat Hours:  18.5 hours <br>
+Total Out-of-Class Hours:  20+ hours <br>
+Total Hours:  38+ hours <br>
+Units:  0 units <br>
 Delivery Method:  Residential <br>
-Class Sessions:  14 classes, 7 labs
+Class Sessions:  14 classes
 
-## Prerequisites:  
+## Prerequisites
 
-MOB 1.1, MOB 1.2, MOB 1.3, MOB 1.4 <br>
+Senior Standing || (Coach Approval && Instructor Approval)
 
-## Learning Objectives or Competencies (5-8)
+## Learning Objectives or Competencies
 
-Students by the end of the course will be able to ...
+By the end of the course, students will be able to:
 
-1. Identify & Describe
-1. Explain
-1. Compare & Contrast
-1. Design & Implement
-1. Master
-
-
+1. Communicate their thought process as they code
+2. Implement and test algorithms by hand
+3. Evaluate algorithms for time and space complexity (Big O)
+4. Design and discuss improvements to existing algorithms
+5. Compare and contrast different data structures and what they are best for
+6. Confidently participate in technical interviews
+7. Identify their existing areas for improvement
 
 ## Schedule
 
-**Course Dates:** Tuesday, October 23 – Thursday, December 13, 2018 (7 weeks)
+**Course Dates:** Monday, October 22 – Wednesday, December 12, 2018
 
-**Class Times:** Tuesday and Thursday at 3:30–5:20pm (13 class sessions)
+**Class Times:** Monday and Wednesday at 10:00 – 11:20pm
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|   1   |  Tuesday, October 23    | [Lesson 1] |
-|   2   | Thursday, October 25    | [Lesson 2] |
-|   3   |  Tuesday, October 30  | [Lesson 1] |
-|   4   | Thursday, November 1  | [Lesson 1] |
-|   5   |  Tuesday, November 6 | [Lesson 1] |
-|   6   | Thursday, November 8 | [Lesson 1] |
-|   7   |  Tuesday, November 13 | [Lesson 1] |
-|   8   | Thursday, November 15 | [Lesson 1] |
-|      |  Tuesday, November 20 | **Don Rags** |
-|     | Thursday, November 22 | **Fall Break** |
-|  9   |  Tuesday, November 27    | [Lesson 1] |
-|  10   | Thursday, November 29    | [Lesson 1] |
-|  11     |  Tuesday, December 4    | [Lesson 1] |
-|  12   | Thursday, December 6   | [Lesson 1] |
-|  13   | Tuesday, December 11   | [Lesson 1] |
-|  14   | Thursday, December 13   | Final Exams |
+|   1   |  Monday, October 22    | [Lesson 1] |
+|   2   | Wednesday, October 24  | [Lesson 2] |
+|   3   |  Monday, October 29    | [Lesson 3] |
+|   4   | Wednesday, October 31  | [Lesson 4] |
+|   5   |  Monday, November 5    | [Lesson 5] |
+|   6   | Wednesday, November 7  | [Lesson 6] |
+|   7   |  Monday, November 12   | [Lesson 7] |
+|   8   | Wednesday, November 14 | [Lesson 8] |
+|   -   |  Monday, November 19   | **Don Rags** |
+|   -   | Wednesday, November 21 | **Fall Break** |
+|   9   |  Monday, November 26   | [Lesson 9] |
+|  10   | Wednesday, November 28 | [Lesson 10] |
+|  11   |  Monday, December 3    | [Lesson 11] |
+|  12   | Wednesday, December 5  | [Lesson 12] |
+|  13   | Monday, December 10    | [Lesson 13] |
+|  14   | Wednesday, December 12 | [Lesson 14] |
 
 [Lesson 1]: Lessons/Lesson1.md
 [Lesson 2]: Lessons/Lesson2.md
+[Lesson 3]: Lessons/Lesson3.md
+[Lesson 4]: Lessons/Lesson4.md
+[Lesson 5]: Lessons/Lesson5.md
+[Lesson 6]: Lessons/Lesson6.md
+[Lesson 7]: Lessons/Lesson7.md
+[Lesson 8]: Lessons/Lesson8.md
+[Lesson 9]: Lessons/Lesson9.md
+[Lesson 10]: Lessons/Lesson10.md
+[Lesson 11]: Lessons/Lesson11.md
+[Lesson 12]: Lessons/Lesson12.md
+[Lesson 13]: Lessons/Lesson13.md
+[Lesson 14]: Lessons/Lesson14.md
 
-## Class Assignments [Remove header if you like]
-- List (with links) of all course-level assignments (i.e. tutorials, challenge sets, contractor project, custom projects, etc)
-- Under each assignment link the rubric used to evaluate it or describe how it is evaluated.
-- Projects should be linked to a project page which has a description & requirements.
+## Class Assignments
+All in-class and take-home assignments are geared towards identifying and then putting into practice key skills and techniques for mastering technical interviews.
 
 ### Tutorials
-[REWORD AS RELEVANT TO YOUR COURSE] Tutorials are to help you get started in a topic.  They are graded on completion only.
-
-- [Do Cool Stuff Tutorial]()
+TBD
 
 ### Projects
-[REWORD AS RELEVANT TO YOUR COURSE] Projects are a chance for you to build and ship code that is based on class concepts.  Many are open ended allowing you to be creative and to have individual work for your portfolio.
-- [Sample Project](Sample_Project.md)
-    -   [Sample Project Rubric](Sample_Rubric.md)
+TBD
 
-### Other Class assignments
+### Other assignments
+
+- Technical interview drills, full-length and partial
+- Reading and review of useful techniques and skills
+- Self-reflection to identify personal areas for improvement
+- Hand-written algorithm writing, testing, and complexity evaluation
 
 ## Evaluation
 
 To pass this course you must meet the following requirements:
 
-- Pass all required tutorials and projects (see associated rubrics)
-- Pass the final summative assessment >=75%
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
+- Complete 4 full-length practice technical interviews with graded rubric feedback
 
 ## Attendance
- Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions: classes, huddles, etc. and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
+In-class time is inspired by the sports team analogy: peer activities are the key to practicing technique and improving skills. Due to the hands-on drill and practice of each class, when people decide not to show up on a regular basis, they are also at risk of harming the learning effectiveness for the class as a whole.
+
+Please treat each class as if it's a scheduled interview with a company that you would be excited to work for and proactively communicate any absence in advance.
+
+```js
+shouldISkipClass(reason) {
+  return shouldISkipMyInterview(reason);
+}
+
+shouldISkipMyInterview(reason) {
+  // returns true if reason is so compelling it's worth canceling or rescheduling your interview
+  // otherwise, return false
+}
+```
 
 Attendance requirements for scheduled sessions are:
+
 - No more than two no call no shows per term in any scheduled session.
 - No more than four excused absences per term in any scheduled session.
 
-Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP will result in not being invited back next term.   
-
+Failure to meet these requirements will result in a PIP (Participation Improvement Plan). Failure to improve after the PIP will result in not being invited back next term.
 
 ## Make School Course Policies
 
 [Academic Honesty](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Academic-Honesty-and-Plagiarism.md)<br>
 [Accommodation Policy](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Accommodation-Policy.md)<br>
-[Attendance Policy]()  
+[Attendance Policy]()
 [Diversity Statement](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Diversity-Statement.md)<br>
 [Evaluation Methods](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluation-Methods.md)
 <br>
